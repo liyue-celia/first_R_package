@@ -1,0 +1,12 @@
+Package: mr
+Type: Package
+Title: Demo R package for the Mastering R class
+Version: 0.1.0
+Author: liyue <celia.liyue@outlook.com>
+Maintainer: liyue <celia.liyue@outlook.com>
+Description: Demo R package for the Mastering R class
+License: AGPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Imports: binancer, scales
